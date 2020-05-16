@@ -1,0 +1,12 @@
+# IntelliJ
+/out/
+
+# Vim
+.*.sw[nop]
+
+# VS Code
+.vscode/
+
+# Operating Systems
+.DS_Store
+Thumbs.db
